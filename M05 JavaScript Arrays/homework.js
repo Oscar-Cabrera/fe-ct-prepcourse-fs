@@ -242,8 +242,6 @@ function breakStatement(num) {
       if (num === i){
          verificar = true 
          break;
-
-      
       }
    }
       if (verificar){
